@@ -1,3 +1,5 @@
+Aplicação de e-commerce em ReactJS, para entendimento do conceito de React Hooks, desenvolvido no bootcamp junto a Rocketseat.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
